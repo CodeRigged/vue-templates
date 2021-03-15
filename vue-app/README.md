@@ -1,6 +1,6 @@
 # vue-app-template
 
-This template includes a frontend and backend layer and only includes basic libraries.
+This template includes a frontend and backend layer and only basic libraries.
 
 ### Frontend
 

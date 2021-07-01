@@ -19,6 +19,6 @@ The backend only uses three packages.
 - [esm](https://www.npmjs.com/package/esm), which allows the use of ECMAScript syntax
 
 ###### Other
-Everything is optional, feel free to use/delete any unwanted dependencies.
+Everything is optional, feel free to edit/delete any dependencies and files.
 
 [License](/LICENSE)
